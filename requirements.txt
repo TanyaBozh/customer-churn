@@ -7,3 +7,5 @@ xgboost
 optuna
 shap
 jupyter
+kagglehub
+os
